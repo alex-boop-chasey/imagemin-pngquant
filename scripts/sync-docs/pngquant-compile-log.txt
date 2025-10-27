@@ -1,0 +1,24 @@
+
+🎉 Compilation complete!
+✅ Files processed: 9
+⏭ Files skipped: 7
+🕒 Duration: 0.01s
+📝 Output: /Users/home/Sites/docs/imagemin-pngquant/scripts/sync-docs/compiled-docs.txt
+🗜  Zipped: /Users/home/Sites/docs/imagemin-pngquant/scripts/sync-docs/compiled-docs.txt.zip
+
+✅ Processed: .c8rc.json
+⏭ Skipped (ext): .editorconfig
+⏭ Skipped (ext): .gitattributes
+✅ Processed: .github/workflows/test.yml
+⏭ Skipped (ext): .gitignore
+⏭ Skipped (ext): .npmrc
+⏭ Skipped: fixture.png
+✅ Processed: index.d.ts
+✅ Processed: index.js
+⏭ Skipped (ext): license
+✅ Processed: package.json
+✅ Processed: readme.md
+✅ Processed: scripts/sync-docs/package-lock.json
+✅ Processed: scripts/sync-docs/package.json
+⏭ Skipped (ext): scripts/sync-docs/sync-docs-universal.mjs
+✅ Processed: test.js
